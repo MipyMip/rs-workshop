@@ -1,2 +1,2 @@
 Some text header
-Change from <master>
+Change from <master> - new changes!!!
